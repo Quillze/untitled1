@@ -1,0 +1,4 @@
+name: Spotlight
+version: '${project.version}'
+main: spotlight.spotlight.Spotlight
+api-version: 1.19.2
